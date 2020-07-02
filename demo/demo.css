@@ -1,0 +1,34 @@
+
+
+#wrapper {position: absolute;
+	z-index: 610;
+top: 1654px;}
+
+
+#title { 
+  text-align: center; 
+}
+#title img { 
+  border: 0; 
+ }
+
+
+.mb-inside img { width: 100%; }
+
+
+
+
+
+
+.buttons { padding: 5px 10px; text-align: center; }
+
+
+.dlinks { 
+  text-align: center;
+  margin: 0 0 20px 0;
+}
+
+
+
+
+
