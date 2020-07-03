@@ -4,7 +4,7 @@
  * http://css-tricks.com/moving-boxes/
  */
 /*jshint browser:true, jquery:true */
-;(function($){
+(function($){
 	"use strict";
 	$.movingBoxes = function(el, options){
 		// To avoid scope issues, use 'base' instead of 'this'
